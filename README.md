@@ -11,7 +11,7 @@ and a several emails determined as ['non-spam']
 
 * After being read, the emails are initially saved in a dataframe. 
 
-*This data is used to train the model, and its predictions are then evaluated using a sample input once they have been processed using CountVectorizer.
+* This data is used to train the model, and its predictions are then evaluated using a sample input once they have been processed using CountVectorizer.
 
 **Python Libraries used:** pandas, numpy, scikit-learn
 
